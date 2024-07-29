@@ -1,0 +1,40 @@
+body {
+  font-family: system-ui;
+  background: #faedcd;
+  color: #d4a373;
+  text-align: center;
+  width: 800px;
+  margin: auto;
+  padding-top: 15px;
+}
+
+h1 {
+  font-size: 3em;
+  text-decoration: underline;
+  font-family: 'Anton SC';
+  margin: auto;
+}
+
+ul {
+font-size: 1.5em;
+margin: auto;
+width: auto;
+text-align: left;
+text-decoration: none
+font-family: 'Noto Sans Japanese';
+}
+
+p {
+  font-size: 1.2em;
+text-align: center;
+  padding-top: auto;
+font-family: 'Noto Sans Japanese';
+font-style: italic;
+}
+
+button[type="submit"] {
+  position: center;
+  top: 50%;
+    left: 50%;
+  leff-padding: 10em;
+}
